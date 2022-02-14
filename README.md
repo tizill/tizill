@@ -17,7 +17,7 @@
   <img align="center" alt="JaoTz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="JaoTz-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JaoTz-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="right" alt="JaoTz-pic" height="150" style="border-radius:100px;" src="https://avatars.githubusercontent.com/u/49381828?s=400&u=ee9f49a8e9cd0026cbd965234cef5d0029697aa1&v=40">
+  <img align="right" alt="JaoTz-pic" height="150" style="border-radius:100px;" src="https://avatars.githubusercontent.com/u/65514632?s=400&u=ee9f49a8e9cd0026cbd965234cef5d0029697aa1&v=40">
 </div>
   
 ##
